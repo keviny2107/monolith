@@ -17,3 +17,4 @@ spec:
           image: skcc11.azurecr.io/monolith:latest
           ports:
             - containerPort: 8080
+  
